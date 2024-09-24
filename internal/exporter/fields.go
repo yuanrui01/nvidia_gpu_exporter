@@ -10,6 +10,7 @@ import (
 )
 
 const (
+	indexQField              QField = "index"
 	uuidQField               QField = "uuid"
 	nameQField               QField = "name"
 	driverModelCurrentQField QField = "driver_model.current"
